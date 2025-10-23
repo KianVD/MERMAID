@@ -6,7 +6,7 @@ https://python-visualization.github.io/folium/latest/getting_started.html
 Streamlit Getting Started
 https://docs.streamlit.io/get-started 
 
-Rviz python
+Rviz python (IMU)
 https://docs.ros.org/en/jade/api/rviz_python_tutorial/html/index.html
 
 
