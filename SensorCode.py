@@ -8,7 +8,7 @@ CMDNODE_PORT = 12345
 
 sfd = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-for i in range(100):
+for i in range(100):#pinging
     sfd.sendto(f"Yo{i}", (CMDNODE_IP, CMDNODE_PORT))
 
 sfd.close()
